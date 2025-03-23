@@ -5,7 +5,6 @@ using namespace std;
 int main( )
 {
     vector<int> vect ={1,2,3,4,5} ;
-
     //for each loop
     for( int i : vect ) // hear i is int because vect is int
     {
