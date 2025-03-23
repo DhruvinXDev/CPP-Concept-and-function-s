@@ -6,7 +6,6 @@ int main ( )
 {
     vector<int> vect ={1,2,3,4,5} ;
     cout <<"Size of vector is : "<<vect.size( )<<endl; //vect.size() to get size of vector
-
     vect.pop_back( );//remove last aliment {1,2,3,4}
     cout << "Size of vector is : "<<vect.size( )<<endl;
     vect.pop_back( );//remove last aliment {1,2,3}
