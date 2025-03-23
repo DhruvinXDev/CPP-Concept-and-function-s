@@ -9,6 +9,7 @@ int main ( )
     int ans =0;
     // n ^ n = 0
     // n ^ 0 = n
+    
     for(auto i : vect)
     {
         ans ^= i;
