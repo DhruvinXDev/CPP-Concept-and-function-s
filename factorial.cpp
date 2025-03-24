@@ -12,6 +12,7 @@ int factorial(int n)
     }
 }
 
+
 int main()
 {
     int n,fact;
